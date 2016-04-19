@@ -1,3 +1,3 @@
 自用surge配置
 
-iqiyi,youku,tudou,pptv,xvideos,91porn要开启Force Remote DNS
+自行修改服务器地址、端口、用户名、验证协议、密码
